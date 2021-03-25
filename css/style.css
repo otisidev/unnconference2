@@ -1008,6 +1008,10 @@ label {
 /* 8. Event Area */
 
 .event-tab-area{}
+.download-btn .btn:hover{
+	border: 1px solid #01551a;
+	color: #01551a !important;
+}
 .event-tab {
 	display: block;
 	text-align: center;
